@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\webapplication1\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\webapplication1\\data\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19519901-28E6-492A-A28E-CD6B886FE34D}|ReportConsumer\\ReportConsumer.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\reportconsumer\\services\\excelreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19519901-28E6-492A-A28E-CD6B886FE34D}|ReportConsumer\\ReportConsumer.csproj|solutionrelative:reportconsumer\\services\\excelreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19519901-28E6-492A-A28E-CD6B886FE34D}|ReportConsumer\\ReportConsumer.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\reportconsumer\\data\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19519901-28E6-492A-A28E-CD6B886FE34D}|ReportConsumer\\ReportConsumer.csproj|solutionrelative:reportconsumer\\data\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19519901-28E6-492A-A28E-CD6B886FE34D}|ReportConsumer\\ReportConsumer.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\reportconsumer\\data\\generatereportrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19519901-28E6-492A-A28E-CD6B886FE34D}|ReportConsumer\\ReportConsumer.csproj|solutionrelative:reportconsumer\\data\\generatereportrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19519901-28E6-492A-A28E-CD6B886FE34D}|ReportConsumer\\ReportConsumer.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\reportconsumer\\data\\reportqueuemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19519901-28E6-492A-A28E-CD6B886FE34D}|ReportConsumer\\ReportConsumer.csproj|solutionrelative:reportconsumer\\data\\reportqueuemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19519901-28E6-492A-A28E-CD6B886FE34D}|ReportConsumer\\ReportConsumer.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\reportconsumer\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19519901-28E6-492A-A28E-CD6B886FE34D}|ReportConsumer\\ReportConsumer.csproj|solutionrelative:reportconsumer\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19519901-28E6-492A-A28E-CD6B886FE34D}|ReportConsumer\\ReportConsumer.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\reportconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19519901-28E6-492A-A28E-CD6B886FE34D}|ReportConsumer\\ReportConsumer.csproj|solutionrelative:reportconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19519901-28E6-492A-A28E-CD6B886FE34D}|ReportConsumer\\ReportConsumer.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\reportconsumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19519901-28E6-492A-A28E-CD6B886FE34D}|ReportConsumer\\ReportConsumer.csproj|solutionrelative:reportconsumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19519901-28E6-492A-A28E-CD6B886FE34D}|ReportConsumer\\ReportConsumer.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\reportconsumer\\data\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19519901-28E6-492A-A28E-CD6B886FE34D}|ReportConsumer\\ReportConsumer.csproj|solutionrelative:reportconsumer\\data\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19519901-28E6-492A-A28E-CD6B886FE34D}|ReportConsumer\\ReportConsumer.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\reportconsumer\\data\\syncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19519901-28E6-492A-A28E-CD6B886FE34D}|ReportConsumer\\ReportConsumer.csproj|solutionrelative:reportconsumer\\data\\syncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\webapplication1\\services\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\webapplication1\\models\\reportrequeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\reportrequeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\webapplication1\\services\\reportrequeststore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\reportrequeststore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\webapplication1\\models\\reportqueuemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\reportqueuemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|c:\\users\\khalid jafri\\desktop\\poc\\webapplication1\\webapplication1\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A493815C-45DB-4F54-96C4-90C412FB37A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:10:15.513Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\ReportConsumer\\Data\\Report.cs",
+              "RelativeDocumentMoniker": "ReportConsumer\\Data\\Report.cs",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\ReportConsumer\\Data\\Report.cs",
+              "RelativeToolTip": "ReportConsumer\\Data\\Report.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T21:41:50.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenerateReportRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\ReportConsumer\\Data\\GenerateReportRequest.cs",
+              "RelativeDocumentMoniker": "ReportConsumer\\Data\\GenerateReportRequest.cs",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\ReportConsumer\\Data\\GenerateReportRequest.cs",
+              "RelativeToolTip": "ReportConsumer\\Data\\GenerateReportRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T21:41:26.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportQueueMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\ReportConsumer\\Data\\ReportQueueMessage.cs",
+              "RelativeDocumentMoniker": "ReportConsumer\\Data\\ReportQueueMessage.cs",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\ReportConsumer\\Data\\ReportQueueMessage.cs",
+              "RelativeToolTip": "ReportConsumer\\Data\\ReportQueueMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T21:40:47.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExcelReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\ReportConsumer\\Services\\ExcelReportGenerator.cs",
+              "RelativeDocumentMoniker": "ReportConsumer\\Services\\ExcelReportGenerator.cs",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\ReportConsumer\\Services\\ExcelReportGenerator.cs",
+              "RelativeToolTip": "ReportConsumer\\Services\\ExcelReportGenerator.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAvwCgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T21:37:09.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\ReportConsumer\\Data\\ReportRepository.cs",
+              "RelativeDocumentMoniker": "ReportConsumer\\Data\\ReportRepository.cs",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\ReportConsumer\\Data\\ReportRepository.cs",
+              "RelativeToolTip": "ReportConsumer\\Data\\ReportRepository.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAmwFsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T21:35:44.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\ReportConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "ReportConsumer\\Program.cs",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\ReportConsumer\\Program.cs",
+              "RelativeToolTip": "ReportConsumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T21:27:21.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SyncRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\ReportConsumer\\Data\\SyncRepository.cs",
+              "RelativeDocumentMoniker": "ReportConsumer\\Data\\SyncRepository.cs",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\ReportConsumer\\Data\\SyncRepository.cs",
+              "RelativeToolTip": "ReportConsumer\\Data\\SyncRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T21:26:57.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\ReportConsumer\\appsettings.json",
+              "RelativeDocumentMoniker": "ReportConsumer\\appsettings.json",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\ReportConsumer\\appsettings.json",
+              "RelativeToolTip": "ReportConsumer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-03T21:26:07.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T20:38:00.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\Data\\ReportRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ReportRepository.cs",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\Data\\ReportRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ReportRepository.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAEwMEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T20:35:19.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportRequestStore.cs",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\Services\\ReportRequestStore.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\ReportRequestStore.cs",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\Services\\ReportRequestStore.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\ReportRequestStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T20:18:07.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReportRequestStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\Models\\ReportRequestStatus.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ReportRequestStatus.cs",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\Models\\ReportRequestStatus.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ReportRequestStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T20:17:26.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\ReportConsumer\\Worker.cs",
+              "RelativeDocumentMoniker": "ReportConsumer\\Worker.cs",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\ReportConsumer\\Worker.cs",
+              "RelativeToolTip": "ReportConsumer\\Worker.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAwGUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:18:40.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwEAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:10:43.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-03T18:08:19.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RabbitMqProducer.cs",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\Services\\RabbitMqProducer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\RabbitMqProducer.cs",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\Services\\RabbitMqProducer.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\RabbitMqProducer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAMwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:08:10.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReportQueueMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\Models\\ReportQueueMessage.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ReportQueueMessage.cs",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\Models\\ReportQueueMessage.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ReportQueueMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:05:25.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Report.cs",
+              "ToolTip": "C:\\Users\\Khalid Jafri\\Desktop\\poc\\WebApplication1\\WebApplication1\\Models\\Report.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Report.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:04:44.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
